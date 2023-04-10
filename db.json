@@ -1,0 +1,81 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "Name": "Apple",
+      "Price": 1.2,
+      "Quantity": 10
+    },
+    {
+      "id": "2",
+      "Name": "Orange",
+      "Price": 0.85,
+      "Quantity": 7
+    },
+    {
+      "id": "3",
+      "Name": "Banana",
+      "Price": 0.99,
+      "Quantity": 5
+    }
+  ],
+  "Users": [
+    {
+      "id": "1",
+      "Name": "John",
+      "Email": "jhons@mail.com",
+      "age": 25
+    },
+    {
+      "id": "2",
+      "Name": "Jane",
+      "Email": "jane@mail.com",
+      "age": 30
+    }
+  ],
+  "Payments": [
+    {
+      "id": "1",
+      "Bankname": "Bank Central Asia",
+      "Cardnumber": 123456789
+    },
+    {
+      "id": "2",
+      "Bankname": "Bank Rakyat Indonesia",
+      "Cardnumber": 123456789
+    },
+    {
+      "id": "3",
+      "Bankname": "Bank Mandiri",
+      "Cardnumber": 123456789
+    },
+    {
+      "id": "4",
+      "Bankname": "Bank Negara Indonesia",
+      "Cardnumber": 123456789
+    }
+  ],
+  "Employe": [
+    {
+      "id": "1",
+      "Name": "Employe1",
+      "Username": "Employe1",
+      "Email": "Employe1@mail.com",
+      "Phone": "08123456789"
+    },
+    {
+      "id": "2",
+      "Name": "Employe2",
+      "Username": "Employe2",
+      "Email": "Employe2@mail.com",
+      "Phone": "08123456789"
+    },
+    {
+      "id": "3",
+      "Name": "Employe3",
+      "Username": "Employe3",
+      "Email": "Employe3@mail.com",
+      "Phone": "08123456789"
+    }
+  ]
+}
